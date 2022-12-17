@@ -2,6 +2,6 @@
 
 Test of an app with nfc reader
 
-## Construido con 🛠️
+## Built with 🛠️
 
 * [Kotlin]
